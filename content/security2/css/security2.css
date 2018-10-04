@@ -7,7 +7,7 @@
 	}
 }
 body:not(.template-slider) #Header_wrapper {
-	background-image: url(../images/home_security2_header1.jpg)
+	background-image: url(../images/royan_servicios_header.jpg)
 }
 @media only screen and (min-width: 1240px) {
 	body:not(.header-simple) #Top_bar #menu {
