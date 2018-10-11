@@ -740,7 +740,7 @@ a:hover.tp-button.lightgrey {
 | 
 |
 */
-@import url('https://fonts.googleapis.com/css?family=Lato|Patua+One|Rajdhani|Roboto');
+@import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i|Patua+One|Rajdhani:300,400,500,600,700|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i');
 
 @font-face {
 	font-family: 'mfn-icons';
